@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Animations>
+<Anim name="eye" framesPerSecond="30">
+	<frame id="eye_001.png" circlecount="6"/>
+	<frame id="eye_002.png" circlecount="3"/>
+	<frame id="eye_003.png" circlecount="6"/>
+	<frame id="eye_004.png" circlecount="3"/>
+	<frame id="eye_005.png" circlecount="8"/>
+	<frame id="eye_006.png" circlecount="8"/>
+	<frame id="eye_007.png" circlecount="6"/>
+	<frame id="eye_008.png" circlecount="3"/>
+	<frame id="eye_009.png" circlecount="3"/>
+	<frame id="eye_010.png" circlecount="3"/>
+	<frame id="eye_011.png" circlecount="3"/>
+	<frame id="eye_012.png" circlecount="5"/>
+	<frame id="eye_013.png" circlecount="5"/>
+	<frame id="eye_014.png" circlecount="5"/>
+</Anim>
+</Animations>
